@@ -1,5 +1,5 @@
 /**
- * testNew
+ * Math cheatsheet
  */
 public class Math {
 
@@ -14,5 +14,11 @@ public class Math {
         System.out.println(number1 / number2); // Division
         System.out.println(number2 % number1); // Modular multiplication
         System.out.println(number2 % number1 + 5); // Modular multiplication
+    }
+
+    // todo
+    public static void main2(String[] args) {
+        System.out.println("2^3" + "A" + "echo");
+        System.out.println("test");
     }
 }
